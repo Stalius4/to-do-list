@@ -168,7 +168,8 @@ color: white;
   font-family: 'Exo', sans-serif;
 
   border-radius: 10px;
-  border:3px rgba(221, 15, 15, 0.988) solid;
+  opacity: 0.5;
   font-size: 15px;
   font-weight: 500;
+  
 }

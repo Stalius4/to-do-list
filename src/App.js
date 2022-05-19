@@ -11,7 +11,7 @@ function App() {
 
 
  const changeHandler = (e) => {
-   setList(e.target.value) // take value from input and sstore in list useState
+   setList(e.target.value) // take value from input and store in list useState
   
  }
 
@@ -21,6 +21,9 @@ function App() {
   storedNums.push(list); // adding input value from list 
   setTodo(  storedNums ); //giving new value to todo array in the state
   }
+
+
+// const [inputValue, setInputValue] = useState ("")
 
   return (<div className="App">
     <h1>To-Do List</h1>

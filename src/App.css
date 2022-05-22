@@ -156,7 +156,7 @@ color: white;
   display: flex;
   height: 50px;
   font-family: 'Exo', sans-serif;
-
+  gap:5px;
   border-radius: 10px;
   border:1px rgba(255, 255, 255, 0.141) solid;
   font-size: 15px;

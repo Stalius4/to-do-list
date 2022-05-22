@@ -1,6 +1,6 @@
 
 import './App.css';
-import React,  {setState, useState, Component}from 'react';
+import React,  {useState}from 'react';
 
 
 function App() {
